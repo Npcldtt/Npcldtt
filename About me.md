@@ -1,3 +1,1 @@
--Sup my name is npcld
--I live on Kazakhstan
--I make Half-Life Mods
+idk
